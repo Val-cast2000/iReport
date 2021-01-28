@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037300512383",
+    "project_id": "ireport-83af9",
+    "storage_bucket": "ireport-83af9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037300512383:android:96df301605875435e6714a",
+        "android_client_info": {
+          "package_name": "com.example.ireport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037300512383-r5hhk1e5qro7s30servsfagosdgba6lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXFz5ZuPL6C00QZ0O33mJsF4lzjHqGF1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037300512383-r5hhk1e5qro7s30servsfagosdgba6lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

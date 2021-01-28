@@ -1,0 +1,5 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyBwJTTLzyJrE4vN5g9cfKPfgCD83VG47p4</string>
+    <string name="app_name">iReport</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
